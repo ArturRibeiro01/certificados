@@ -69,8 +69,6 @@ Formação concluída. Visualizar o **[certificado completo.](https://cursos.alu
 
 ## HTML e CSS
 
-Formação em andamento.
-
 <ul>
     <li><a href="https://cursos.alura.com.br/certificate/dad3b2f0-679d-4b55-889c-c57833b39457" target="_blank">Acessibilidade web: introdução a designs inclusivos (de 09/03/2020 a 11/03/2020) 6hrs</a></li>
     <li><a href="https://cursos.alura.com.br/certificate/799d069d-5ca4-4f79-b033-814d7b3e5809" target="_blank">Acessibilidade web parte 1: tornando seu front-end inclusivo (de 12/03/2020 a 12/03/2020) 6hrs</a></li>  
@@ -80,8 +78,6 @@ Formação em andamento.
 
 ## Adobe XD
 
-Formação em andamento.
-
 <ul>
     <li><a href="" target="_blank">UI Design Patterns: Usabilidade em interfaces mobile (de 21/03/2020 a 24/03/2020) 5hrs</a></li>
     <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
@@ -90,8 +86,6 @@ Formação em andamento.
 
 ## Sketch
 
-Formação em andamento.
-
 <ul>
     <li><a href="" target="_blank">UI Design Patterns: Usabilidade em interfaces mobile (de 21/03/2020 a 24/03/2020) 5hrs</a></li>
     <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
@@ -99,8 +93,6 @@ Formação em andamento.
 
 
 ## Marketing Digital
-
-Formação em andamento.
 
 <ul>
     <li><a href="" target="_blank">SEO II: Mais técnicas para rankeamento (de 03/03/2020 a 04/03/2020) 5hrs</a></li>
