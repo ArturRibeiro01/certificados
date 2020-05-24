@@ -14,7 +14,7 @@
 
 
 
-# Formação: UX Design
+## Formação: UX Design
 
 Visualizar o **[certificado completo.]()**
 
@@ -35,7 +35,7 @@ Visualizar o **[certificado completo.]()**
 </ul>
 
 
-# Formação: UX Research
+## Formação: UX Research
 
 Visualizar o **[certificado completo.]()**
 
@@ -49,7 +49,7 @@ Visualizar o **[certificado completo.]()**
 </ul>
 
 
-# Formação: Wordpress
+## Formação: Wordpress
 
 Visualizar o **[certificado completo.](https://cursos.alura.com.br/degree/certificate/3184b5a5-6a03-4557-9a2e-1c5acaa2e609)**
 
@@ -60,7 +60,7 @@ Visualizar o **[certificado completo.](https://cursos.alura.com.br/degree/certif
     <li><a href="https://cursos.alura.com.br/certificate/8a81e00b-b56a-4662-96d3-19af70641493" target="_blank">SEO Wordpress: Otimize o ranqueamento do seu site (de 06/03/2020 a 08/03/2020) 4hrs</a></li>
 </ul>
 
-# Formação: Acessibilidade Web
+## Formação: Acessibilidade Web
 
 Visualizar o **[certificado completo.]()**
 
@@ -71,7 +71,7 @@ Visualizar o **[certificado completo.]()**
 </ul>
 
 
-# Formação: HTML e CSS
+## Formação: HTML e CSS
 <ul>
     <li><a href="" target="_blank">Acessibilidade web: introdução a designs inclusivos (de 09/03/2020 a 11/03/2020) 6hrs</a></li>
     <li><a href="" target="_blank">Acessibilidade web parte 1: tornando seu front-end inclusivo (de 12/03/2020 a 12/03/2020) 6hrs</a></li>
@@ -79,27 +79,27 @@ Visualizar o **[certificado completo.]()**
 </ul>
 
 
-# Formação: Adobe XD
+## Formação: Adobe XD
 <ul>
     <li><a href="" target="_blank">UI Design Patterns: Usabilidade em interfaces mobile (de 21/03/2020 a 24/03/2020) 5hrs</a></li>
     <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
 </ul>
 
 
-# Formação: Sketch
+## Formação: Sketch
 <ul>
     <li><a href="" target="_blank">UI Design Patterns: Usabilidade em interfaces mobile (de 21/03/2020 a 24/03/2020) 5hrs</a></li>
     <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
 </ul>
 
-# Formação: Marketing Digital
+## Formação: Marketing Digital
 <ul>
     <li><a href="" target="_blank">SEO II: Mais técnicas para rankeamento (de 03/03/2020 a 04/03/2020) 5hrs</a></li>
     <li><a href="" target="_blank">Introdução ao Google Analytics: configurações e funcionalidades (de 06/03/2020 a 06/03/2020) 4hrs</a></li>
 </ul>
 
 
-# Formação: SEO
+## Formação: SEO
 <ul>
     <li><a href="" target="_blank">SEO II: Mais técnicas para rankeamento (de 03/03/2020 a 04/03/2020) 5hrs</a></li>
     <li><a href="" target="_blank">SEO III: Métricas e Relatórios SEO (de 04/03/2020 a 06/03/2020) 5hrs</a></li>
@@ -109,7 +109,7 @@ Visualizar o **[certificado completo.]()**
 </ul>
 
 
-# Formação: Digital & Agile Thinking
+## Formação: Digital & Agile Thinking
 <ul>
     <li><a href="" target="_blank">UX: o que é experiência de usuário (de 13/06/2017 a 14/06/2017) 5hrs</a></li>
     <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
@@ -151,7 +151,7 @@ Visualizar o **[certificado completo.]()**
   <br><br>
 </h1>
 
-# Bootcamp Become Remote
+## Bootcamp Become Remote
 
 Visualizar o **[certificado completo.]()**
 
