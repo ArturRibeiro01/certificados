@@ -133,16 +133,14 @@ Formação concluída. Visualizar o **[certificado completo.](https://cursos.alu
 
 ## Bootcamp Become Remote
 
-Visualizar o **[certificado completo do Bootcamp.]()**
+Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitalinnovation.one/2DE83632)**
 
 <ul>
-    <li><a href="" target="_blank">Desmistificando o trabalho remoto</a></li>
-    <li><a href="" target="_blank">Como se comunicar de forma eficiente e eficar trabalhando remotamente</a></li>
-    <li><a href="" target="_blank">Como gerenciar seus projetos trabalhando remotamente</a></li>
-    <li><a href="" target="_blank">Rotina e produtividade individual no trabalho remoto</a></li>
+    <li><a href="https://certificates.digitalinnovation.one/D7EB28EB" target="_blank">Desmistificando o trabalho remoto</a></li>
+    <li><a href="https://certificates.digitalinnovation.one/ED7440F8" target="_blank">Como se comunicar de forma eficiente e eficaz trabalhando remotamente</a></li>
+    <li><a href="https://certificates.digitalinnovation.one/F44F499D" target="_blank">Como gerenciar seus projetos trabalhando remotamente</a></li>
+    <li><a href="https://certificates.digitalinnovation.one/00AA18BB" target="_blank">Rotina e produtividade individual no trabalho remoto</a></li>
 </ul>
-
-
 
 
 
