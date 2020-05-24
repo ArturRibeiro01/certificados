@@ -10,6 +10,9 @@
   <br><br>
 </h1>
 
+Você pode encontrar um certificado completo com todos os cursos e formações **[aqui](https://cursos.alura.com.br/user/pelizari/fullCertificate/6cc0dadbff0fce4f5a17ba415eb94b38)** .
+
+<br><br>
 
 ## UX Design
 
