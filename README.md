@@ -67,6 +67,20 @@ Formação concluída. Visualizar o **[certificado completo.](https://cursos.alu
 </ul><br><br>
 
 
+
+## SEO
+
+Formação concluída. Visualizar o **[certificado completo.](https://cursos.alura.com.br/degree/certificate/7f5fa820-9c3e-4df0-a151-5a764ccad3c1)**
+
+<ul>
+    <li><a href="" target="_blank">SEO II: Mais técnicas para rankeamento (de 03/03/2020 a 04/03/2020) 5hrs</a></li>
+    <li><a href="" target="_blank">SEO III: Métricas e Relatórios SEO (de 04/03/2020 a 06/03/2020) 5hrs</a></li>
+    <li><a href="" target="_blank">SEO Wordpress: Otimize o ranqueamento do seu site (de 06/03/2020 a 08/03/2020) 4hrs](https://cursos.alura.com.br/certificate/8a81e00b-b56a-4662-96d3-19af706414</a></li>
+    <li><a href="" target="_blank">Introdução ao Google Analytics: configurações e funcionalidades (de 06/03/2020 a 06/03/2020) 4hrs</a></li>
+    <li><a href="" target="_blank">Introdução ao SEO: Entenda como o Google funciona (de 11/03/2020 a 12/03/2020) 6hrs</a></li>
+</ul><br><br>
+
+
 ## HTML e CSS
 
 <ul>
@@ -97,19 +111,6 @@ Formação concluída. Visualizar o **[certificado completo.](https://cursos.alu
 <ul>
     <li><a href="" target="_blank">SEO II: Mais técnicas para rankeamento (de 03/03/2020 a 04/03/2020) 5hrs</a></li>
     <li><a href="" target="_blank">Introdução ao Google Analytics: configurações e funcionalidades (de 06/03/2020 a 06/03/2020) 4hrs</a></li>
-</ul><br><br>
-
-
-## SEO
-
-Formação concluída. Visualizar o **[certificado completo.](https://cursos.alura.com.br/degree/certificate/7f5fa820-9c3e-4df0-a151-5a764ccad3c1)**
-
-<ul>
-    <li><a href="" target="_blank">SEO II: Mais técnicas para rankeamento (de 03/03/2020 a 04/03/2020) 5hrs</a></li>
-    <li><a href="" target="_blank">SEO III: Métricas e Relatórios SEO (de 04/03/2020 a 06/03/2020) 5hrs</a></li>
-    <li><a href="" target="_blank">SEO Wordpress: Otimize o ranqueamento do seu site (de 06/03/2020 a 08/03/2020) 4hrs](https://cursos.alura.com.br/certificate/8a81e00b-b56a-4662-96d3-19af706414</a></li>
-    <li><a href="" target="_blank">Introdução ao Google Analytics: configurações e funcionalidades (de 06/03/2020 a 06/03/2020) 4hrs</a></li>
-    <li><a href="" target="_blank">Introdução ao SEO: Entenda como o Google funciona (de 11/03/2020 a 12/03/2020) 6hrs</a></li>
 </ul><br><br>
 
 
