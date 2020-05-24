@@ -11,7 +11,7 @@
 </h1>
 
 
-## Formação: UX Design
+## UX Design
 
 Formação concluída. Visualizar o **[certificado completo.](https://cursos.alura.com.br/degree/certificate/337f5d98-6fee-40db-8dda-463d8cef2dcc)**
 
@@ -29,12 +29,10 @@ Formação concluída. Visualizar o **[certificado completo.](https://cursos.alu
     <li><a href="https://cursos.alura.com.br/certificate/5cfd2668-62c0-46e0-9062-e6204861ac77" target="_blank">Teste de Usabilidade parte 2: Mensurando e entregando resultados (de 05/05/2020 a 06/05/2020) 4hrs</a></li>
     <li><a href="https://cursos.alura.com.br/certificate/ed652687-f6e2-4672-adc5-25ee65f8b2bc" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
     <li><a href="https://cursos.alura.com.br/certificate/8610caef-25ce-4066-831a-56b7edbcf44b" target="_blank">Introdução ao Design System: escalando seu produto (de 13/05/2020 a 20/05/2020) 9hrs</a></li>  
-</ul>
+</ul><br><br>
 
 
-## Formação: UX Research
-
-Formação em andamento.
+## UX Research
 
 <ul>
     <li><a href="https://cursos.alura.com.br/certificate/6dc9cc1a-c245-45c9-a510-3c3b2c0632be" target="_blank">UX Produto: monitore, mensure e teste o seu projeto (de 24/02/2020 a 25/02/2020) 2hrs</a></li>
@@ -43,10 +41,10 @@ Formação em andamento.
     <li><a href="https://cursos.alura.com.br/certificate/9668af4c-ea34-4291-b13c-9dba23e6ddcf" target="_blank">UX Research: entrevistas com equipes internas (de 07/05/2020 a 07/05/2020) 6hrs</a></li>
     <li><a href="https://cursos.alura.com.br/certificate/903d62df-4392-434c-aa9e-6c6f26c4eb4e" target="_blank">UX Research: Análise de concorrentes (de 12/05/2020 a 13/05/2020) 8hrs</a></li>
     <li><a href="https://cursos.alura.com.br/certificate/3c4b4195-036b-4b8d-b207-d140af6ae018" target="_blank">UX Research para otimização de sites (de 06/05/2020 a 12/05/2020) 10hrs</a></li>
-</ul>
+</ul><br><br>
 
 
-## Formação: Wordpress
+## Wordpress
 
 Formação concluída. Visualizar o **[certificado completo.](https://cursos.alura.com.br/degree/certificate/3184b5a5-6a03-4557-9a2e-1c5acaa2e609)**
 
@@ -55,10 +53,10 @@ Formação concluída. Visualizar o **[certificado completo.](https://cursos.alu
     <li><a href="https://cursos.alura.com.br/certificate/23d6aa64-d71d-43cf-880c-6eb0b574875d" target="_blank">WordPress II: páginas, temas e boas práticas (de 16/03/2020 a 17/03/2020) 8hrs</a></li>
     <li><a href="https://cursos.alura.com.br/certificate/42b5a634-4f31-4941-8f22-9e8a2446d75c" target="_blank">Wordpress: Criação de um tema do zero (de 17/03/2020 a 20/03/2020) 8hrs</a></li>
     <li><a href="https://cursos.alura.com.br/certificate/8a81e00b-b56a-4662-96d3-19af70641493" target="_blank">SEO Wordpress: Otimize o ranqueamento do seu site (de 06/03/2020 a 08/03/2020) 4hrs</a></li>
-</ul>
+</ul><br><br>
 
 
-## Formação: Acessibilidade Web
+## Acessibilidade Web
 
 Formação concluída. Visualizar o **[certificado completo.](https://cursos.alura.com.br/degree/certificate/99a4ec2e-b308-4c64-b384-f7f785292838)**
 
@@ -66,10 +64,10 @@ Formação concluída. Visualizar o **[certificado completo.](https://cursos.alu
     <li><a href="https://cursos.alura.com.br/certificate/dad3b2f0-679d-4b55-889c-c57833b39457" target="_blank">Acessibilidade web: introdução a designs inclusivos (de 09/03/2020 a 11/03/2020) 6hrs</a></li>
     <li><a href="https://cursos.alura.com.br/certificate/799d069d-5ca4-4f79-b033-814d7b3e5809" target="_blank">Acessibilidade web parte 1: tornando seu front-end inclusivo (de 12/03/2020 a 12/03/2020) 6hrs</a></li>  
     <li><a href="https://cursos.alura.com.br/certificate/1b3f09c5-54a9-4e71-a311-d9627e0e8064" target="_blank">Acessibilidade web parte 2: Componentes acessíveis com um pouco de JavaScript (de 12/03/2020 a 13/03/2020) 4hrs</a></li>
-</ul>
+</ul><br><br>
 
 
-## Formação: HTML e CSS
+## HTML e CSS
 
 Formação em andamento.
 
@@ -77,39 +75,40 @@ Formação em andamento.
     <li><a href="https://cursos.alura.com.br/certificate/dad3b2f0-679d-4b55-889c-c57833b39457" target="_blank">Acessibilidade web: introdução a designs inclusivos (de 09/03/2020 a 11/03/2020) 6hrs</a></li>
     <li><a href="https://cursos.alura.com.br/certificate/799d069d-5ca4-4f79-b033-814d7b3e5809" target="_blank">Acessibilidade web parte 1: tornando seu front-end inclusivo (de 12/03/2020 a 12/03/2020) 6hrs</a></li>  
     <li><a href="https://cursos.alura.com.br/certificate/1b3f09c5-54a9-4e71-a311-d9627e0e8064" target="_blank">Acessibilidade web parte 2: Componentes acessíveis com um pouco de JavaScript (de 12/03/2020 a 13/03/2020) 4hrs</a></li>
-</ul>
+</ul><br><br>
 
 
-## Formação: Adobe XD
-
-Formação em andamento.
-
-<ul>
-    <li><a href="" target="_blank">UI Design Patterns: Usabilidade em interfaces mobile (de 21/03/2020 a 24/03/2020) 5hrs</a></li>
-    <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
-</ul>
-
-
-## Formação: Sketch
+## Adobe XD
 
 Formação em andamento.
 
 <ul>
     <li><a href="" target="_blank">UI Design Patterns: Usabilidade em interfaces mobile (de 21/03/2020 a 24/03/2020) 5hrs</a></li>
     <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
-</ul>
+</ul><br><br>
 
-## Formação: Marketing Digital
+
+## Sketch
+
+Formação em andamento.
+
+<ul>
+    <li><a href="" target="_blank">UI Design Patterns: Usabilidade em interfaces mobile (de 21/03/2020 a 24/03/2020) 5hrs</a></li>
+    <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
+</ul><br><br>
+
+
+## Marketing Digital
 
 Formação em andamento.
 
 <ul>
     <li><a href="" target="_blank">SEO II: Mais técnicas para rankeamento (de 03/03/2020 a 04/03/2020) 5hrs</a></li>
     <li><a href="" target="_blank">Introdução ao Google Analytics: configurações e funcionalidades (de 06/03/2020 a 06/03/2020) 4hrs</a></li>
-</ul>
+</ul><br><br>
 
 
-## Formação: SEO
+## SEO
 
 Formação concluída. Visualizar o **[certificado completo.](https://cursos.alura.com.br/degree/certificate/7f5fa820-9c3e-4df0-a151-5a764ccad3c1)**
 
@@ -119,17 +118,15 @@ Formação concluída. Visualizar o **[certificado completo.](https://cursos.alu
     <li><a href="" target="_blank">SEO Wordpress: Otimize o ranqueamento do seu site (de 06/03/2020 a 08/03/2020) 4hrs](https://cursos.alura.com.br/certificate/8a81e00b-b56a-4662-96d3-19af706414</a></li>
     <li><a href="" target="_blank">Introdução ao Google Analytics: configurações e funcionalidades (de 06/03/2020 a 06/03/2020) 4hrs</a></li>
     <li><a href="" target="_blank">Introdução ao SEO: Entenda como o Google funciona (de 11/03/2020 a 12/03/2020) 6hrs</a></li>
-</ul>
+</ul><br><br>
 
 
-## Formação: Digital & Agile Thinking
-
-Formação em andamento.
+## Digital & Agile Thinking
 
 <ul>
     <li><a href="" target="_blank">UX: o que é experiência de usuário (de 13/06/2017 a 14/06/2017) 5hrs</a></li>
     <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
-</ul>
+</ul><br><br>
 
 
 
@@ -143,7 +140,7 @@ Formação em andamento.
 
 ## Bootcamp Become Remote
 
-Visualizar o **[certificado completo.]()**
+Visualizar o **[certificado completo do Bootcamp.]()**
 
 <ul>
     <li><a href="" target="_blank">Desmistificando o trabalho remoto</a></li>
