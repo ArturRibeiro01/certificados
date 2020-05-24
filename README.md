@@ -150,6 +150,8 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
   <br><br>
 </h1>
 
+## User Experience
+
 <ul>
     <li><a href="https://pelizari.dev/certificados/mergo/certificado-ux-strategy-claudio-pelizari.pdf" target="_blank">UX Strategy</a></li>
     <li><a href="https://pelizari.dev/certificados/mergo/certificado-ux-weekend-claudio-pelizari.pdf" target="_blank">UX Weekend</a></li>    
@@ -161,6 +163,8 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
   <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-treinaweb.svg" alt="logo Treinaweb" width="250px">
   <br><br>
 </h1>
+
+## Desenvolvimento Web
 
 <ul>
     <li><a href="https://pelizari.dev/certificados/treinaweb/treinaweb-css-responsive.pdf" target="_blank">CSS - Design Responsivo</a></li>
@@ -174,6 +178,7 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
     <br><br>
   </h1>
 
+## Webdesign
 
 <ul>
     <li><a href="https://pelizari.dev/certificados/fundacao-bradesco/fundacao-bradesco-inovando-com-css.pdf" target="_blank">Inovando com CSS</a></li>
