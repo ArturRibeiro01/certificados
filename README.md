@@ -73,11 +73,11 @@ Formação concluída. Visualizar o **[certificado completo.](https://cursos.alu
 Formação concluída. Visualizar o **[certificado completo.](https://cursos.alura.com.br/degree/certificate/7f5fa820-9c3e-4df0-a151-5a764ccad3c1)**
 
 <ul>
-    <li><a href="" target="_blank">SEO II: Mais técnicas para rankeamento (de 03/03/2020 a 04/03/2020) 5hrs</a></li>
-    <li><a href="" target="_blank">SEO III: Métricas e Relatórios SEO (de 04/03/2020 a 06/03/2020) 5hrs</a></li>
-    <li><a href="" target="_blank">SEO Wordpress: Otimize o ranqueamento do seu site (de 06/03/2020 a 08/03/2020) 4hrs](https://cursos.alura.com.br/certificate/8a81e00b-b56a-4662-96d3-19af706414</a></li>
-    <li><a href="" target="_blank">Introdução ao Google Analytics: configurações e funcionalidades (de 06/03/2020 a 06/03/2020) 4hrs</a></li>
-    <li><a href="" target="_blank">Introdução ao SEO: Entenda como o Google funciona (de 11/03/2020 a 12/03/2020) 6hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/efeac9b7-f087-4e69-b0ec-0ea03cb7c30c" target="_blank">SEO II: Mais técnicas para rankeamento (de 03/03/2020 a 04/03/2020) 5hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/3436d195-ffdd-46b7-aae9-64fe1a659727" target="_blank">SEO III: Métricas e Relatórios SEO (de 04/03/2020 a 06/03/2020) 5hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/8a81e00b-b56a-4662-96d3-19af70641493" target="_blank">SEO Wordpress: Otimize o ranqueamento do seu site (de 06/03/2020 a 08/03/2020) 4hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/2b4d3e51-f8ec-4a26-b62e-6c60d096fb6f" target="_blank">Introdução ao Google Analytics: configurações e funcionalidades (de 06/03/2020 a 06/03/2020) 4hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/1b9f14f4-b7c9-4cb6-8e93-91922b1a92f1" target="_blank">Introdução ao SEO: Entenda como o Google funciona (de 11/03/2020 a 12/03/2020) 6hrs</a></li>
 </ul><br><br>
 
 
@@ -93,32 +93,32 @@ Formação concluída. Visualizar o **[certificado completo.](https://cursos.alu
 ## Adobe XD
 
 <ul>
-    <li><a href="" target="_blank">UI Design Patterns: Usabilidade em interfaces mobile (de 21/03/2020 a 24/03/2020) 5hrs</a></li>
-    <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/bb0ca927-02d1-4476-a4da-b878e338081a" target="_blank">UI Design Patterns: Usabilidade em interfaces mobile (de 21/03/2020 a 24/03/2020) 5hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/ed652687-f6e2-4672-adc5-25ee65f8b2bc" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
 </ul><br><br>
 
 
 ## Sketch
 
 <ul>
-    <li><a href="" target="_blank">UI Design Patterns: Usabilidade em interfaces mobile (de 21/03/2020 a 24/03/2020) 5hrs</a></li>
-    <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/bb0ca927-02d1-4476-a4da-b878e338081a" target="_blank">UI Design Patterns: Usabilidade em interfaces mobile (de 21/03/2020 a 24/03/2020) 5hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/ed652687-f6e2-4672-adc5-25ee65f8b2bc" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
 </ul><br><br>
 
 
 ## Marketing Digital
 
 <ul>
-    <li><a href="" target="_blank">SEO II: Mais técnicas para rankeamento (de 03/03/2020 a 04/03/2020) 5hrs</a></li>
-    <li><a href="" target="_blank">Introdução ao Google Analytics: configurações e funcionalidades (de 06/03/2020 a 06/03/2020) 4hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/efeac9b7-f087-4e69-b0ec-0ea03cb7c30c" target="_blank">SEO II: Mais técnicas para rankeamento (de 03/03/2020 a 04/03/2020) 5hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/2b4d3e51-f8ec-4a26-b62e-6c60d096fb6f" target="_blank">Introdução ao Google Analytics: configurações e funcionalidades (de 06/03/2020 a 06/03/2020) 4hrs</a></li>
 </ul><br><br>
 
 
 ## Digital & Agile Thinking
 
 <ul>
-    <li><a href="" target="_blank">UX: o que é experiência de usuário (de 13/06/2017 a 14/06/2017) 5hrs</a></li>
-    <li><a href="" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/685585c6-d64e-41d5-ba98-8c2cea524cc2" target="_blank">UX: o que é experiência de usuário (de 13/06/2017 a 14/06/2017) 5hrs</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/ed652687-f6e2-4672-adc5-25ee65f8b2bc" target="_blank">Design Thinking: Concretizando ideias (de 20/05/2020 a 22/05/2020) 5hrs</a></li>
 </ul><br><br>
 
 
@@ -151,8 +151,8 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
 </h1>
 
 <ul>
-    <li><a href="" target="_blank"></a></li>
-    <li><a href="" target="_blank"></a></li>    
+    <li><a href="https://pelizari.dev/certificados/mergo/certificado-ux-strategy-claudio-pelizari.pdf" target="_blank">UX Strategy</a></li>
+    <li><a href="https://pelizari.dev/certificados/mergo/certificado-ux-weekend-claudio-pelizari.pdf" target="_blank">UX Weekend</a></li>    
 </ul>
 
 
@@ -163,8 +163,8 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
 </h1>
 
 <ul>
-    <li><a href="" target="_blank"></a></li>
-    <li><a href="" target="_blank"></a></li>    
+    <li><a href="https://pelizari.dev/certificados/treinaweb/treinaweb-css-responsive.pdf" target="_blank">CSS - Design Responsivo</a></li>
+    <li><a href="https://pelizari.dev/certificados/treinaweb/treinaweb-seo.pdf" target="_blank">SEO - Search Engine Optimization</a></li>  
 </ul>
 
 
@@ -176,6 +176,6 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
 
 
 <ul>
-    <li><a href="" target="_blank"></a></li>
-    <li><a href="" target="_blank"></a></li>    
+    <li><a href="https://pelizari.dev/certificados/fundacao-bradesco/fundacao-bradesco-inovando-com-css.pdf" target="_blank">Inovando com CSS</a></li>
+    <li><a href="https://pelizari.dev/certificados/fundacao-bradesco/fundacao-bradesco-webdesign.pdf" target="_blank">Webdesign</a></li>    
 </ul>  
