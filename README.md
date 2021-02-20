@@ -67,7 +67,7 @@ Entendendo como novas abordagens podem ajudar no processo de transformação das
 
 Formação concluída. Visualizar o **[certificado completo.](http://bit.ly/3pCNPc4)**
 
-um guia de aprendizado completo para aprimorar nossos hábitos, descobrindo como melhorar a eficácia profissional e técnicas para melhorar a gestão de tempo, pois quanto mais consciência tivermos sobre nossos hábitos e sobre a qualidade deles, melhor será a nossa relação com a produtividade, porque dessa maneira teremos conhecimento sobre o que podemos fazer para melhorar nossas entregas e a priorização das tarefas que somos responsáveis.
+Um guia de aprendizado completo para aprimorar nossos hábitos, descobrindo como melhorar nossa eficácia profissional e técnicas para melhorar a gestão de tempo, pois quanto mais consciência tivermos sobre nossos hábitos e sobre a qualidade deles, melhor será a nossa relação com a produtividade, porque dessa maneira teremos conhecimento sobre o que podemos fazer para melhorar nossas entregas e a priorização das tarefas que somos responsáveis.
 
 <ul>
     <li><a href="https://cursos.alura.com.br/certificate/d8901158-6886-4c4c-a2b7-1b4b02117a0e" target="_blank">Hábitos: Da produtividade às metas pessoais (8hrs)</a></li>
@@ -140,7 +140,7 @@ Tudo é experiência - Não existe App ou site sem usuário. Uma ideia só vira 
 
 Formação concluída. Visualizar o **[certificado completo.](http://bit.ly/3k64fIY)**
 
-Na Formação Acessibilidade Web, o aprendizado é focado para proporcionar uma ótima experiência para quem está navegando no seu site. Além de melhorar a Experiência do Usuário (UX), entender como o ambiente web funciona na realidade de outras pessoas e diminuir assim as barreiras que podem causar problemas na hora delas interagirem com o seu produto.
+Na formação Acessibilidade Web, o aprendizado é focado para proporcionar uma ótima experiência para quem está navegando no seu site. Além de melhorar a Experiência do Usuário (UX), entender como o ambiente web funciona na realidade de outras pessoas e diminuir assim as barreiras que podem causar problemas na hora delas interagirem com o seu produto.
 
 <ul>
     <li><a href="https://cursos.alura.com.br/certificate/dad3b2f0-679d-4b55-889c-c57833b39457" target="_blank">Acessibilidade web: introdução a designs inclusivos (6hrs) </a></li>
@@ -171,11 +171,12 @@ Formação concluída. Visualizar o **[certificado completo.](https://cursos.alu
 Nessa formação, pude aprender sobre as melhores práticas para rankear bem no Google, aumentar o tráfego de um site, ganhar relevância e impulsionar vendas através dos resultados de busca orgânica. Pois é fundamental para uma marca que seu(s) produto(s) seja(m) encontrado(s) na internet por possíveis clientes.
 
 <ul>
+    <li><a href="https://cursos.alura.com.br/certificate/1b9f14f4-b7c9-4cb6-8e93-91922b1a92f1" target="_blank">SEO I: Entenda como o Google funciona (6hrs) </a></li>
     <li><a href="https://cursos.alura.com.br/certificate/efeac9b7-f087-4e69-b0ec-0ea03cb7c30c" target="_blank">SEO II: Mais técnicas para rankeamento (5hrs) </a></li>
     <li><a href="https://cursos.alura.com.br/certificate/3436d195-ffdd-46b7-aae9-64fe1a659727" target="_blank">SEO III: Métricas e Relatórios SEO (5hrs) </a></li>
     <li><a href="https://cursos.alura.com.br/certificate/8a81e00b-b56a-4662-96d3-19af70641493" target="_blank">SEO Wordpress: Otimize o ranqueamento do seu site (4hrs) </a></li>
     <li><a href="https://cursos.alura.com.br/certificate/2b4d3e51-f8ec-4a26-b62e-6c60d096fb6f" target="_blank">Introdução ao Google Analytics: configurações e funcionalidades (4hrs) </a></li>
-    <li><a href="https://cursos.alura.com.br/certificate/1b9f14f4-b7c9-4cb6-8e93-91922b1a92f1" target="_blank">Introdução ao SEO: Entenda como o Google funciona (6hrs) </a></li>
+    
 </ul><br><br>
 
 
@@ -227,8 +228,8 @@ Nessa formação, pude aprender sobre as melhores práticas para rankear bem no 
 ## User Experience
 
 <ul>
-    <li><a href="https://pelizari.dev/certificados/mergo/certificado-ux-strategy-claudio-pelizari.pdf" target="_blank">UX Strategy</a><br>O curso UX Strategy apresenta ferramentas de estratégia e técnicas para geração de propostas de valor inovadoras para os seus produtos.</li>
-    <li><a href="https://pelizari.dev/certificados/mergo/certificado-ux-weekend-claudio-pelizari.pdf" target="_blank">UX Weekend</a><br>Uma imersão de dois dias para você compreender todo o processo de UX Design, desenvolvendo um projeto na prática com uma visão clara de estratégia de produtos e empreendedorismo.</li>    
+    <li><a href="https://pelizari.dev/certificados/mergo/certificado-ux-strategy-claudio-pelizari.pdf" target="_blank">UX Strategy</a><br>O curso UX Strategy apresenta ferramentas de estratégia e técnicas para geração de propostas de valor inovadoras para diversos produtos;</li>
+    <li><a href="https://pelizari.dev/certificados/mergo/certificado-ux-weekend-claudio-pelizari.pdf" target="_blank">UX Weekend</a><br>Uma imersão de dois dias, onde pude compreender todo o processo de UX Design, desenvolvendo um projeto na prática com uma visão clara de estratégia de produtos e empreendedorismo;</li>    
 </ul>
 
 
@@ -241,16 +242,16 @@ Nessa formação, pude aprender sobre as melhores práticas para rankear bem no 
 
 <br><br><br><br>
 <h1 align="center">
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-keep-learning.png" alt="logo Keep Learning School" width="468px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-keep-learning.png" alt="logo Keep Learning School" width="350px">
   <br><br>
 </h1>
 
-## Keep Learning School
+## Reaprendizagem Criativa
 
-Conclui o curso "Reaprendizagem Criativa" na **[Keep Learning School](https://www.keeplearning.school)**, ministrado pelo Murilo Gun, comediante e ex-aluno de futurismo da Singularity University na NASA. Com aulas sempre bem humoradas e recheadas de ótimos conhecimentos, pude aprender sobre algumas habilidades que serão imprescindíveis no futuro profissional, alguns mitos sobre a criatividade e vários bloqueios educacionais, mercadológicos e cerebrais que nos impedem de ser ainda mais criativos, seja no trabalho, nos estudos ou em qualquer tarefa do cotidiano. Além claro de fazer parte de uma comunidade incrível de pessoas engajadas em fazer do mundo um lugar melhor e mais criativo.
+Conclui o curso "Reaprendizagem Criativa" na **[Keep Learning School](https://www.keeplearning.school)**, ministrado pelo Murilo Gun, comediante e ex-aluno de futurismo da **[Singularity University na NASA](https://su.org/about/)**. Com aulas sempre bem humoradas e recheadas de ótimos conhecimentos, pude aprender sobre várias habilidades que serão imprescindíveis no futuro profissional, alguns mitos sobre a criatividade e diversos bloqueios educacionais, mercadológicos e cerebrais que nos impedem de ser ainda mais criativos, seja no trabalho, nos estudos ou em qualquer tarefa do cotidiano. Além claro de fazer parte de uma comunidade incrível de pessoas engajadas em fazer do mundo um lugar melhor e mais criativo.
 
 <ul>
-    <li><a href="https://bit.ly/3savhBJ" target="_blank">Reaprendizagem Criativa</a></li>    
+    <li><a href="https://bit.ly/3savhBJ" target="_blank">Certificado - Reaprendizagem Criativa</a></li>    
 </ul>
 
 
@@ -261,7 +262,7 @@ Conclui o curso "Reaprendizagem Criativa" na **[Keep Learning School](https://ww
 
 <br><br><br><br>
 <h1 align="center">
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-dio-black.png" alt="logo Digital Innovation One" width="150px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-dio-black.png" alt="logo Digital Innovation One" width="179px">
   <br><br>
 </h1>
 
