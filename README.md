@@ -5,6 +5,9 @@
 
 
 
+
+
+
 <h1 align="center"><br>
   <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-ibm-enterprise-design-thinking.png" alt="logo IBM - Enterprise Design Thinking" width="562px">
   <br><br>
@@ -38,6 +41,9 @@ Você pode encontrar um certificado completo com todos os cursos e formações *
 <br><br>
 
 
+
+
+
 ## Digital & Agile Thinking
 
 Formação concluída. Visualizar o **[certificado completo.](http://bit.ly/3s5HEio)**
@@ -63,6 +69,27 @@ Entendendo como novas abordagens podem ajudar no processo de transformação das
 
 
 
+
+## Business Agility - Preparando organizações para a transformação ágil.
+
+Formação concluída. Visualizar o **[certificado completo.](http://bit.ly/3aIFRKr)**
+
+Na Formação Business Agility é possível compreender como uma empresa pode se preparar para o cenário atual de incertezas e mudanças constantes, entender também qual é o Mindset Ágil que as empresas precisam, como estruturar times ágeis e como mensurar resultados tanto para o negócio como para a operação, sempre entregando valor para seus clientes.
+
+<ul>
+    <li><a href="https://cursos.alura.com.br/certificate/94e59231-2f02-474a-84ae-defb5695de02" target="_blank">Fundamentos de Agilidade: Seus primeiros passos para a transformação ágil (6hrs)</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/44ff2b40-0aba-4ebb-ac64-8852a871c47b" target="_blank">A Empresa Ágil: Introduzindo o Business Agility nas organizações (6hrs)</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/202732b7-390b-4b4d-bdcb-62232ecd36fd" target="_blank">Gestão Ágil: Liderando a mudança em um ambiente de agilidade (6hrs)</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/ee07f73c-ebbb-4a3d-83f8-8cf9835d59a7" target="_blank">Organização de equipes ágeis: Os papéis existentes em uma equipe (6hrs)</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/c46c7c09-7ccd-4012-adac-2f14f6b68921" target="_blank">Escalando equipes ágeis: Como levar a agilidade adiante na organização (6hrs)</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/d1e40a37-fa46-41d7-a80a-3ad550a1a8f4" target="_blank">Agile Coach: Lidere a transformação nas empresas (6hrs)</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/f7973a91-867e-425e-b045-a60921575b40" target="_blank">Práticas ágeis: O dia a dia do ambiente Agile (6hrs)</a></li>
+    <li><a href="https://cursos.alura.com.br/certificate/437f6c06-2ccf-4591-b4cc-7df89c420361" target="_blank">Métricas ágeis: como medir resultados em um ambiente ágil (6hrs)</a></li>
+</ul><br><br>
+
+
+
+
 ## Produtividade
 
 Formação concluída. Visualizar o **[certificado completo.](http://bit.ly/3pCNPc4)**
@@ -78,20 +105,6 @@ Um guia de aprendizado completo para aprimorar nossos hábitos, descobrindo como
     <li><a href="https://cursos.alura.com.br/certificate/c329ec85-4fb9-4ca4-8d9e-8c46b08b547e" target="_blank">Eficácia parte 2: Hábitos para sua proatividade (4hrs)</a></li>
 </ul><br><br>
 
-
-## Business Agility - Preparando organizações para a transformação ágil.
-
-Na Formação Business Agility é possível compreender como uma empresa pode se preparar para o cenário atual de incertezas e mudanças constantes, entender também qual é o Mindset Ágil que as empresas precisam, como estruturar times ágeis e como mensurar resultados tanto para o negócio como para a operação, sempre entregando valor para seus clientes.
-
-<ul>
-    <li><a href="https://cursos.alura.com.br/certificate/94e59231-2f02-474a-84ae-defb5695de02" target="_blank">Fundamentos de Agilidade: Seus primeiros passos para a transformação ágil (6hrs)</a></li>
-    <li><a href="https://cursos.alura.com.br/certificate/44ff2b40-0aba-4ebb-ac64-8852a871c47b" target="_blank">A Empresa Ágil: Introduzindo o Business Agility nas organizações (6hrs)</a></li>
-    <li><a href="https://cursos.alura.com.br/certificate/202732b7-390b-4b4d-bdcb-62232ecd36fd" target="_blank">Gestão Ágil: Liderando a mudança em um ambiente de agilidade (6hrs)</a></li>
-    <li><a href="https://cursos.alura.com.br/certificate/ee07f73c-ebbb-4a3d-83f8-8cf9835d59a7" target="_blank">Organização de equipes ágeis: Os papéis existentes em uma equipe (6hrs)</a></li>
-    <li><a href="https://cursos.alura.com.br/certificate/c46c7c09-7ccd-4012-adac-2f14f6b68921" target="_blank">Escalando equipes ágeis: Como levar a agilidade adiante na organização (6hrs)</a></li>
-    <li><a href="https://cursos.alura.com.br/certificate/d1e40a37-fa46-41d7-a80a-3ad550a1a8f4" target="_blank">Agile Coach: Lidere a transformação nas empresas (6hrs)</a></li>
-    <li><a href="https://cursos.alura.com.br/certificate/f7973a91-867e-425e-b045-a60921575b40" target="_blank">Práticas ágeis: O dia a dia do ambiente Agile (6hrs)</a></li>    
-</ul><br><br>
 
 
 ## UX Research
@@ -136,6 +149,7 @@ Tudo é experiência - Não existe App ou site sem usuário. Uma ideia só vira 
 </ul><br><br>
 
 
+
 ## Acessibilidade Web
 
 Formação concluída. Visualizar o **[certificado completo.](http://bit.ly/3k64fIY)**
@@ -147,6 +161,7 @@ Na formação Acessibilidade Web, o aprendizado é focado para proporcionar uma 
     <li><a href="https://cursos.alura.com.br/certificate/799d069d-5ca4-4f79-b033-814d7b3e5809" target="_blank">Acessibilidade web parte 1: tornando seu front-end inclusivo (6hrs) </a></li>  
     <li><a href="https://cursos.alura.com.br/certificate/1b3f09c5-54a9-4e71-a311-d9627e0e8064" target="_blank">Acessibilidade web parte 2: Componentes acessíveis com um pouco de JavaScript (4hrs) </a></li>
 </ul><br><br>
+
 
 
 ## Wordpress
