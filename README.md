@@ -181,7 +181,7 @@ Atualmente dentre todos os sites baseados em gerenciadores de conteúdo, 63% sã
 
 ## SEO
 
-Formação concluída. Visualizar o **[certificado completo.](https://cursos.alura.com.br/degree/certificate/7f5fa820-9c3e-4df0-a151-5a764ccad3c1)**
+Formação concluída. Visualizar o **[certificado completo.](https://cursos.alura.com.br/degree/certificate/7f5fa820-9c3e-4df0-a151-5a764ccad3c1){:target="_blank" rel="noopener"}**
 
 Nessa formação, pude aprender sobre as melhores práticas para rankear bem no Google, aumentar o tráfego de um site, ganhar relevância e impulsionar vendas através dos resultados de busca orgânica. Pois é fundamental para uma marca que seu(s) produto(s) seja(m) encontrado(s) na internet por possíveis clientes.
 
