@@ -240,7 +240,7 @@ Nessa formação, pude aprender sobre as melhores práticas para rankear bem no 
 
 ## Bootcamp Become Remote
 
-Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitalinnovation.one/2DE83632)**
+Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitalinnovation.one/2DE83632){:target="_blank"}**
 
 <ul>
     <li><a href="https://certificates.digitalinnovation.one/D7EB28EB" target="_blank">Desmistificando o trabalho remoto</a></li>
