@@ -253,7 +253,7 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
 ## SCRUM
 
 <ul>
-    <li><a href="#" target="_blank" onclick="window.open('https://certificates.digitalinnovation.one/729BA4EB')">Projetos ágeis com SCRUM</a></li>    
+    <li><a href="https://certificates.digitalinnovation.one/729BA4EB" target="_blank">Projetos ágeis com SCRUM</a></li>    
 </ul><br><br>
 
 
