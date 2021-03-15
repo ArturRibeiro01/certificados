@@ -240,7 +240,7 @@ Nessa formação, pude aprender sobre as melhores práticas para rankear bem no 
 
 ## Bootcamp Become Remote
 
-Visualizar o [certificado completo do Bootcamp.](https://certificates.digitalinnovation.one/2DE83632){:target="_blank"}
+Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitalinnovation.one/2DE83632)**
 
 <ul>
     <li><a href="https://certificates.digitalinnovation.one/D7EB28EB" target="_blank">Desmistificando o trabalho remoto</a></li>
@@ -253,7 +253,7 @@ Visualizar o [certificado completo do Bootcamp.](https://certificates.digitalinn
 ## SCRUM
 
 <ul>
-    <li><a href="https://certificates.digitalinnovation.one/729BA4EB" target="_blank">Projetos ágeis com SCRUM</a></li>    
+    <li><a href="#" target="_blank" onclick="window.open('https://certificates.digitalinnovation.one/729BA4EB')">Projetos ágeis com SCRUM</a></li>    
 </ul><br><br>
 
 
