@@ -257,7 +257,7 @@ Nessa formação, pude aprender sobre as melhores práticas para rankear bem no 
 
 <br><br><br><br>
 <h1 align="center">
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-keep-learning.png" alt="logo Keep Learning School" width="350px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-keep-learning.png" alt="logo Keep Learning School" width="300px">
   <br><br>
 </h1>
 
