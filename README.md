@@ -232,6 +232,35 @@ Nessa formação, pude aprender sobre as melhores práticas para rankear bem no 
 
 
 
+<br><br><br><br>
+<h1 align="center">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-dio-black.png" alt="logo Digital Innovation One" width="179px">
+  <br><br>
+</h1>
+
+## Bootcamp Become Remote
+
+Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitalinnovation.one/2DE83632)**
+
+<ul>
+    <li><a href="https://certificates.digitalinnovation.one/D7EB28EB" target="_blank">Desmistificando o trabalho remoto</a></li>
+    <li><a href="https://certificates.digitalinnovation.one/ED7440F8" target="_blank">Como se comunicar de forma eficiente e eficaz trabalhando remotamente</a></li>
+    <li><a href="https://certificates.digitalinnovation.one/F44F499D" target="_blank">Como gerenciar seus projetos trabalhando remotamente</a></li>
+    <li><a href="https://certificates.digitalinnovation.one/00AA18BB" target="_blank">Rotina e produtividade individual no trabalho remoto</a></li>
+</ul><br><br>
+
+
+## SCRUM
+
+<ul>
+    <li><a href="https://certificates.digitalinnovation.one/729BA4EB" target="_blank">Projetos ágeis com SCRUM</a></li>    
+</ul><br><br>
+
+
+
+
+
+
 
 
 <br><br><br><br>
@@ -272,32 +301,6 @@ Conclui o curso "Reaprendizagem Criativa" na **[Keep Learning School](https://ww
 
 
 
-
-
-
-<br><br><br><br>
-<h1 align="center">
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-dio-black.png" alt="logo Digital Innovation One" width="179px">
-  <br><br>
-</h1>
-
-## Bootcamp Become Remote
-
-Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitalinnovation.one/2DE83632)**
-
-<ul>
-    <li><a href="https://certificates.digitalinnovation.one/D7EB28EB" target="_blank">Desmistificando o trabalho remoto</a></li>
-    <li><a href="https://certificates.digitalinnovation.one/ED7440F8" target="_blank">Como se comunicar de forma eficiente e eficaz trabalhando remotamente</a></li>
-    <li><a href="https://certificates.digitalinnovation.one/F44F499D" target="_blank">Como gerenciar seus projetos trabalhando remotamente</a></li>
-    <li><a href="https://certificates.digitalinnovation.one/00AA18BB" target="_blank">Rotina e produtividade individual no trabalho remoto</a></li>
-</ul><br><br>
-
-
-## SCRUM
-
-<ul>
-    <li><a href="https://certificates.digitalinnovation.one/729BA4EB" target="_blank">Projetos ágeis com SCRUM</a></li>    
-</ul>
 
 
 
