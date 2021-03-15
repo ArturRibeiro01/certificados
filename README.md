@@ -290,7 +290,7 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
     <li><a href="https://certificates.digitalinnovation.one/ED7440F8" target="_blank">Como se comunicar de forma eficiente e eficaz trabalhando remotamente</a></li>
     <li><a href="https://certificates.digitalinnovation.one/F44F499D" target="_blank">Como gerenciar seus projetos trabalhando remotamente</a></li>
     <li><a href="https://certificates.digitalinnovation.one/00AA18BB" target="_blank">Rotina e produtividade individual no trabalho remoto</a></li>
-</ul>
+</ul><br><br>
 
 
 ## SCRUM
