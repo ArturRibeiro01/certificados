@@ -7,7 +7,33 @@
 
 
 
+<h1 align="center"><br>
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-google.png" alt="logo Google" width="250px">
+  <br><br>
+</h1>
 
+## Certificado Profissional Google UX Design
+
+Este certificado é o caminho para uma carreira em UX Design. Neste programa, é possível aprender sob demanda os fundamentos do UX Design, como conduzir pesquisas de usuário e projetar protótipos em ferramentas como Figma e Adobe XD. A certificação ideal para quem gosta de pensar criativamente, projetar e pesquisar, com o treinamento profissional desenvolvido pelo Google.
+
+<ul>
+    <li><a href="https://www.coursera.org/account/accomplishments/certificate/BHHKAV8WC9S3" target="_blank">Foundations of User Experience (UX) Design</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/certificate/GYLKMZKPNGQN" target="_blank">Start the UX Design Process: Empathize, Define,and Ideate</a></li>
+    <li>Build Wireframes and Low-Fidelity Prototypes (in progess...)</li>
+    <li>Conduct UX Research and Test Early Concepts (Soon)</li>
+    <li>Create High-Fidelity Designs and Prototypes in Figma (Soon)</li>
+    <li>Responsive Web Design in Adobe XD (Soon)</li>
+    <li>Design a User Experience for Social Good & Prepare for Jobs (Soon)</li>
+</ul><br><br>
+
+
+
+
+
+
+
+
+<br><br><br><br>
 <h1 align="center"><br>
   <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-ibm-enterprise-design-thinking.png" alt="logo IBM - Enterprise Design Thinking" width="562px">
   <br><br>
@@ -24,6 +50,26 @@ O Enterprise Design Thinking é uma abordagem da IBM para aplicar o design think
 </ul><br><br>
 
 
+
+
+
+
+
+
+<br><br><br><br>
+<h1 align="center"><br>
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-fiap.png" alt="logo FIAP - Centro Universitário" width="250px">
+  <br><br>
+</h1>
+
+## FIAP - Centro Universitário
+
+A <strong>FIAP</strong> é o centro de excelência em tecnologia mais respeitado do país, e através da plataforma FIAP ON, pude concluir os cursos de <strong><em>User Experience</em></strong> e <strong><em>Design Thinking</em></strong> que contam com conteúdos atualizados e exclusivos, além da presença de grandes empresas relevantes no mercado, apresentando seus cases com especialistas nas áreas.
+
+<ul>
+    <li><a href="https://pelizari.dev/certificados/fiap/user-experience.png" target="_blank">User Experience</a></li>
+    <li><a href="https://pelizari.dev/certificados/fiap/design-thinking.png" target="_blank">Design Thinking</a></li>    
+</ul><br><br>
 
 
 
