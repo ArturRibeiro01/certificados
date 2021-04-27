@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/cover.png" alt="" width="100%">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/cover.png" alt="" width="100%"><br>
   Certificados<br><br>
 </h1>
 
@@ -35,7 +35,7 @@ Este certificado é o caminho para uma carreira em UX Design. Neste programa, é
 
 <br><br><br><br>
 <h1 align="center"><br>
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-ibm-enterprise-design-thinking.png" alt="logo IBM - Enterprise Design Thinking" width="562px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-ibm-enterprise-design-thinking-v2.png" alt="logo IBM - Enterprise Design Thinking" width="562px">
   <br><br>
 </h1>
 
@@ -58,7 +58,7 @@ O Enterprise Design Thinking é uma abordagem da IBM para aplicar o design think
 
 <br><br><br><br>
 <h1 align="center"><br>
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-fiap.png" alt="logo FIAP - Centro Universitário" width="250px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-fiap-v2.png" alt="logo FIAP - Centro Universitário" width="250px">
   <br><br>
 </h1>
 
@@ -280,7 +280,7 @@ Nessa formação, pude aprender sobre as melhores práticas para rankear bem no 
 
 <br><br><br><br>
 <h1 align="center">
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-dio-black.png" alt="logo Digital Innovation One" width="179px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-dio-v2.png" alt="logo Digital Innovation One" width="200px">
   <br><br>
 </h1>
 
