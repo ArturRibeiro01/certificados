@@ -280,7 +280,7 @@ Nessa formação, pude aprender sobre as melhores práticas para rankear bem no 
 
 <br><br><br><br>
 <h1 align="center">
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-dio-v2.png" alt="logo Digital Innovation One" width="200px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-dio.png" alt="logo Digital Innovation One" width="300px">
   <br><br>
 </h1>
 
@@ -332,7 +332,7 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
 
 <br><br><br><br>
 <h1 align="center">
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-keep-learning.png" alt="logo Keep Learning School" width="300px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-keep-learning-v2.png" alt="logo Keep Learning School" width="300px">
   <br><br>
 </h1>
 
