@@ -35,7 +35,7 @@ Este certificado é o caminho para uma carreira em UX Design. Neste programa, é
 
 <br><br><br><br>
 <h1 align="center"><br>
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-ibm-enterprise-design-thinking-v2.png" alt="logo IBM - Enterprise Design Thinking" width="562px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-ibm-enterprise-design-thinking.png" alt="logo IBM - Enterprise Design Thinking" width="562px">
   <br><br>
 </h1>
 
@@ -58,7 +58,7 @@ O Enterprise Design Thinking é uma abordagem da IBM para aplicar o design think
 
 <br><br><br><br>
 <h1 align="center"><br>
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-fiap-v2.png" alt="logo FIAP - Centro Universitário" width="250px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-fiap.png" alt="logo FIAP - Centro Universitário" width="250px">
   <br><br>
 </h1>
 
@@ -311,7 +311,7 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
 
 <br><br><br><br>
 <h1 align="center">
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-mergo-v2.png" alt="logo Mergo" width="413px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-mergo.png" alt="logo Mergo - User Experience" width="413px">
   <br><br>
 </h1>
 
@@ -332,7 +332,7 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
 
 <br><br><br><br>
 <h1 align="center">
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-keep-learning-v2.png" alt="logo Keep Learning School" width="300px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-keep-learning.png" alt="logo Keep Learning School" width="300px">
   <br><br>
 </h1>
 
@@ -373,7 +373,7 @@ Conclui o curso "Reaprendizagem Criativa" na **[Keep Learning School](https://ww
 
 <br><br><br><br>
 <h1 align="center">
-    <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-fundacao-bradesco-v2.png" alt="logo Fundação Bradesco - Escola Virtual" width="450px">
+    <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-fundacao-bradesco.png" alt="logo Fundação Bradesco - Escola Virtual" width="450px">
     <br><br>
   </h1>
 
