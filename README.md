@@ -311,7 +311,7 @@ Visualizar o **[certificado completo do Bootcamp.](https://certificates.digitali
 
 <br><br><br><br>
 <h1 align="center">
-  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-mergo.png" alt="logo Mergo" width="150px">
+  <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-mergo-v2.png" alt="logo Mergo" width="413px">
   <br><br>
 </h1>
 
@@ -373,7 +373,7 @@ Conclui o curso "Reaprendizagem Criativa" na **[Keep Learning School](https://ww
 
 <br><br><br><br>
 <h1 align="center">
-    <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-fundacao-bradesco.png" alt="logo Fundação Bradesco - Escola Virtual" width="450px">
+    <img src="https://github.com/claudiopelizari/certificados/blob/master/images/logo-fundacao-bradesco-v2.png" alt="logo Fundação Bradesco - Escola Virtual" width="450px">
     <br><br>
   </h1>
 
